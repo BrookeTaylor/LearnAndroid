@@ -1,5 +1,6 @@
-<!-- 2. lables and text for entries to app. -->
+<!-- 2. Labels and text for entries to app. -->
 <resources>
+    <string name="app_name">Jetpack Compose Greeting</string>
     <string name="first_name">First Name:</string>
     <string name="last_name">Last Name:</string>
     <string name="enter_button">First Name:</string>
