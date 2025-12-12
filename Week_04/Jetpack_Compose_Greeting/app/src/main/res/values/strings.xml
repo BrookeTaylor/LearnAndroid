@@ -1,0 +1,8 @@
+<!-- 2. lables and text for entries to app. -->
+<resources>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_button">First Name:</string>
+    <string name="welcome_to_the_app">Welcome to the app:</string>
+    <string name="please_enter_a_name">Please enter a full name!</string>
+</resources>
